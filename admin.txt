@@ -1,2 +1,6 @@
 This file is from Admin branch
+<<<<<<< HEAD
 Modified by Admin locally
+=======
+Modified by Binometatsu
+>>>>>>> 98d9fc7ec45158f01aea4ce0ec9bec0d46df8efe
